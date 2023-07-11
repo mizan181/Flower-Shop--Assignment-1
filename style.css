@@ -35,3 +35,7 @@ flex-shrink: 0;
     flex-direction: column;
     flex-shrink: 0;
 }
+.mainhead,.mainpera,.mainbutton{
+    display: block;
+    margin-bottom: 30px;
+}
